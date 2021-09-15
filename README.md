@@ -1,5 +1,5 @@
-### COVID-Pneumonia-LungCancer-Classification
-# Datasets: 
+## COVID-Pneumonia-LungCancer-Classification
+### Datasets: 
 <br>
 Covid-pneumonia-normal dataset: https://drive.google.com/drive/folders/11a__luUMJ21lhal9WD1UXEweMvxPCu2Y?usp=sharing
 <br>
